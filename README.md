@@ -1,0 +1,1 @@
+this project is a Skype revival and will work with real (!!!) Skype 3 when MySkype SkypeMap is released. generically, you must use MySkype Skype to connect to MySkype Supernode servers. unlike Dynamo-chatr, MySkype will produce a release.
